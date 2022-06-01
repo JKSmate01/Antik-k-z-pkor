@@ -3,4 +3,4 @@ The project started around 20th of april. My teammate was Erik. Firt we created 
 
 The website’s desing was made in Figma. The HTML and CSS code was written by me and Erik. We used Visual Studios’s / Visual Code’s Live Share to collaborate in code writing. Most of the images were chosen by Erik and I implemented them into the sites. 
 
-[figma.pdf](https://github.com/JKSmate01/Antik-k-z-pkor/files/8813219/figma.pdf)
+![screen](https://user-images.githubusercontent.com/93654099/171382883-6fe466bd-8b87-4909-98b5-973d3d24d6ba.PNG)
